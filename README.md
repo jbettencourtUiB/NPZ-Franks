@@ -1,5 +1,5 @@
 # NPZ-Franks
-A simple Nutrient-Phytoplankton-Zooplankton ecosystem model
+A simple Nutrient-Phytoplankton-Zooplankton ecosystem model implemented as a Jupyter notebook.
 
 ## Introduction
 
